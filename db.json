@@ -10,5 +10,95 @@
 		{ "id": 4, "name": "Aquaman" },
 		{ "id": 5, "name": "Mulher Maravilha" },
 		{ "id": 6, "name": "Venom" }
-	]
+	],
+	"clinica-vitalhub": {
+		"patients": [
+			{
+				"id": "901f",
+				"name": "aaaaaaaaaaaaaaaaaaaa",
+				"dateOfBirth": "1212-12-12",
+				"bloodType": "b",
+				"phone": "11111121111",
+				"healthInsurance": "ouro",
+				"height": "222",
+				"weight": "22222",
+				"medicalHistory": "a"
+			},
+			{
+				"id": "3a89",
+				"name": "mateus",
+				"dateOfBirth": "1111-11-11",
+				"bloodType": "a",
+				"phone": "(11) 11111-111",
+				"healthInsurance": "ouro",
+				"height": "2.m",
+				"weight": "2kg",
+				"medicalHistory": "1",
+				"formAddress": {
+					"street": "aaaaaaaaaa",
+					"number": "a",
+					"neighborhood": "a",
+					"complement": "aaaaaaaaa",
+					"city": "a",
+					"zipCode": "11111111",
+					"state": "a"
+				}
+			}
+		],
+		"doctors": [
+			{
+				"id": "62ea",
+				"name": "Robert",
+				"specialty": "pediatra",
+				"crm": "111111BA",
+				"consultationHours": "12:12",
+				"valueAppointment": 10000,
+				"contat": "cons",
+				"formAddress": {
+					"street": "aaaaaaaaaa",
+					"number": "a",
+					"neighborhood": "a",
+					"complement": "aaaaaaaaa",
+					"city": "a",
+					"zipCode": "11111111",
+					"state": "a"
+				}
+			}
+		],
+		"materials": [
+			{
+				"id": "bf50",
+				"name": "Soro",
+				"stockQuantity": 2,
+				"minStockQuantity": 2,
+				"supplier": "Robson",
+				"price": 10
+			}
+		],
+		"exams": [
+			{
+				"id": "a8a7",
+				"patient": "defb",
+				"examName": "teste",
+				"examType": "laboratorial",
+				"value": 1000,
+				"description": "bla",
+				"materials": "bf50"
+			}
+		],
+		"appointments": [
+			{
+				"id": "6abf",
+				"doctor": "62ea",
+				"patient": "defb",
+				"appointmentType": "simples",
+				"complaint": "dor",
+				"healthInsurance": "ouro",
+				"date": "11111-11-11",
+				"hour": "11:11",
+				"materials": "bf50",
+				"observations": "a"
+			}
+		]
+	}
 }
