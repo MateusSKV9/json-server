@@ -98,5 +98,435 @@
 			"materials": "bf50",
 			"observations": "a"
 		}
+	],
+	"jogo-da-forca": [
+		{
+			"palavra": "elefante",
+			"pista": "Animal grande com tromba."
+		},
+		{
+			"palavra": "javascript",
+			"pista": "Linguagem de programação de scripts."
+		},
+		{
+			"palavra": "teclado",
+			"pista": "Usado para digitar em um computador."
+		},
+		{
+			"palavra": "computador",
+			"pista": "Máquina eletrônica para processamento de dados."
+		},
+		{
+			"palavra": "internet",
+			"pista": "Rede global de computadores."
+		},
+		{
+			"palavra": "celular",
+			"pista": "Dispositivo móvel de comunicação."
+		},
+		{
+			"palavra": "mouse",
+			"pista": "Dispositivo de entrada com botão e rolo."
+		},
+		{
+			"palavra": "monitor",
+			"pista": "Tela de visualização de um computador."
+		},
+		{
+			"palavra": "programador",
+			"pista": "Pessoa que escreve código."
+		},
+		{
+			"palavra": "girafa",
+			"pista": "Animal com o pescoço mais longo do mundo."
+		},
+		{
+			"palavra": "pizza",
+			"pista": "Comida italiana redonda com cobertura."
+		},
+		{
+			"palavra": "chocolate",
+			"pista": "Doce feito de cacau."
+		},
+		{
+			"palavra": "cafe",
+			"pista": "Bebida popular feita de grãos torrados."
+		},
+		{
+			"palavra": "caneta",
+			"pista": "Instrumento de escrita com tinta."
+		},
+		{
+			"palavra": "livro",
+			"pista": "Conjunto de folhas de papel impressas e encadernadas."
+		},
+		{
+			"palavra": "relogio",
+			"pista": "Instrumento para medir o tempo."
+		},
+		{
+			"palavra": "violao",
+			"pista": "Instrumento musical de cordas."
+		},
+		{
+			"palavra": "bicicleta",
+			"pista": "Veículo de duas rodas movido a pedal."
+		},
+		{
+			"palavra": "nuvem",
+			"pista": "Massa visível de gotículas de água na atmosfera."
+		},
+		{
+			"palavra": "chuveiro",
+			"pista": "Aparelho que despeja água para o banho."
+		},
+		{
+			"palavra": "geladeira",
+			"pista": "Eletrodoméstico para refrigerar alimentos."
+		},
+		{
+			"palavra": "microondas",
+			"pista": "Aparelho para aquecer comida rapidamente."
+		},
+		{
+			"palavra": "cadeira",
+			"pista": "Móvel para sentar."
+		},
+		{
+			"palavra": "janela",
+			"pista": "Abertura na parede de um edifício para entrada de luz e ar."
+		},
+		{
+			"palavra": "telefone",
+			"pista": "Aparelho que transmite sons a longa distância."
+		},
+		{
+			"palavra": "futebol",
+			"pista": "Esporte jogado com uma bola e duas equipes."
+		},
+		{
+			"palavra": "basquete",
+			"pista": "Esporte em que se joga a bola em uma cesta."
+		},
+		{
+			"palavra": "tenis",
+			"pista": "Esporte jogado com raquetes e uma bola pequena."
+		},
+		{
+			"palavra": "natacao",
+			"pista": "Esporte de mover-se na água."
+		},
+		{
+			"palavra": "montanha",
+			"pista": "Grande elevação natural da superfície da Terra."
+		},
+		{
+			"palavra": "oceano",
+			"pista": "Vasta extensão de água salgada."
+		},
+		{
+			"palavra": "deserto",
+			"pista": "Região árida com pouca chuva."
+		},
+		{
+			"palavra": "floresta",
+			"pista": "Área densamente coberta por árvores."
+		},
+		{
+			"palavra": "cidade",
+			"pista": "Grande centro urbano."
+		},
+		{
+			"palavra": "estrada",
+			"pista": "Via pavimentada para veículos."
+		},
+		{
+			"palavra": "aeroporto",
+			"pista": "Local de partida e chegada de aviões."
+		},
+		{
+			"palavra": "hospital",
+			"pista": "Local de tratamento de doentes e feridos."
+		},
+		{
+			"palavra": "escola",
+			"pista": "Lugar onde se ensina e se aprende."
+		},
+		{
+			"palavra": "biblioteca",
+			"pista": "Lugar onde se guardam e se emprestam livros."
+		},
+		{
+			"palavra": "teatro",
+			"pista": "Local onde se encenam peças dramáticas."
+		},
+		{
+			"palavra": "cinema",
+			"pista": "Local onde se projetam filmes."
+		},
+		{
+			"palavra": "museu",
+			"pista": "Lugar onde se expõem objetos de valor histórico ou artístico."
+		},
+		{
+			"palavra": "pinguim",
+			"pista": "Ave marinha que não voa."
+		},
+		{
+			"palavra": "leao",
+			"pista": "Felino selvagem conhecido como o rei da selva."
+		},
+		{
+			"palavra": "tubarao",
+			"pista": "Grande peixe predador."
+		},
+		{
+			"palavra": "golfinho",
+			"pista": "Mamífero aquático inteligente."
+		},
+		{
+			"palavra": "borboleta",
+			"pista": "Inseto com asas coloridas que passa por metamorfose."
+		},
+		{
+			"palavra": "caramelo",
+			"pista": "Doce feito de açúcar derretido."
+		},
+		{
+			"palavra": "morango",
+			"pista": "Fruta vermelha pequena e doce."
+		},
+		{
+			"palavra": "abacaxi",
+			"pista": "Fruta tropical com coroa de folhas."
+		},
+		{
+			"palavra": "melancia",
+			"pista": "Grande fruta verde por fora e vermelha por dentro."
+		},
+		{
+			"palavra": "laranja",
+			"pista": "Fruta cítrica redonda e laranja."
+		},
+		{
+			"palavra": "cama",
+			"pista": "Móvel para dormir."
+		},
+		{
+			"palavra": "travesseiro",
+			"pista": "Almofada para a cabeça na hora de dormir."
+		},
+		{
+			"palavra": "cobertor",
+			"pista": "Peça de tecido usada para se aquecer."
+		},
+		{
+			"palavra": "espelho",
+			"pista": "Superfície que reflete a luz."
+		},
+		{
+			"palavra": "lapis",
+			"pista": "Instrumento de escrita com grafite."
+		},
+		{
+			"palavra": "tesoura",
+			"pista": "Instrumento com duas lâminas para cortar."
+		},
+		{
+			"palavra": "mochila",
+			"pista": "Bolsa que se carrega nas costas."
+		},
+		{
+			"palavra": "lampada",
+			"pista": "Dispositivo que produz luz."
+		},
+		{
+			"palavra": "dinossauro",
+			"pista": "Réptil extinto da era Mesozoica."
+		},
+		{
+			"palavra": "astronauta",
+			"pista": "Pessoa que viaja no espaço."
+		},
+		{
+			"palavra": "medico",
+			"pista": "Profissional que cuida da saúde."
+		},
+		{
+			"palavra": "professor",
+			"pista": "Profissional que ensina em sala de aula."
+		},
+		{
+			"palavra": "advogado",
+			"pista": "Profissional que defende as pessoas na justiça."
+		},
+		{
+			"palavra": "engenheiro",
+			"pista": "Profissional que projeta e constrói coisas."
+		},
+		{
+			"palavra": "cozinheiro",
+			"pista": "Profissional que prepara alimentos."
+		},
+		{
+			"palavra": "guitarra",
+			"pista": "Instrumento musical de cordas elétrico."
+		},
+		{
+			"palavra": "bateria",
+			"pista": "Conjunto de tambores e pratos para música."
+		},
+		{
+			"palavra": "trompete",
+			"pista": "Instrumento musical de sopro de metal."
+		},
+		{
+			"palavra": "piano",
+			"pista": "Instrumento musical de teclas."
+		},
+		{
+			"palavra": "televisao",
+			"pista": "Aparelho para assistir a programas e filmes."
+		},
+		{
+			"palavra": "radio",
+			"pista": "Aparelho para ouvir música e notícias."
+		},
+		{
+			"palavra": "jornal",
+			"pista": "Publicação diária com notícias."
+		},
+		{
+			"palavra": "revista",
+			"pista": "Publicação periódica com artigos e fotos."
+		},
+		{
+			"palavra": "camisa",
+			"pista": "Peça de vestuário para a parte superior do corpo."
+		},
+		{
+			"palavra": "calca",
+			"pista": "Peça de vestuário para a parte inferior do corpo."
+		},
+		{
+			"palavra": "sapato",
+			"pista": "Peça de vestuário para os pés."
+		},
+		{
+			"palavra": "boné",
+			"pista": "Acessório para a cabeça com aba."
+		},
+		{
+			"palavra": "oculos",
+			"pista": "Acessório para os olhos com lentes."
+		},
+		{
+			"palavra": "sol",
+			"pista": "Estrela central do nosso sistema solar."
+		},
+		{
+			"palavra": "lua",
+			"pista": "Satélite natural da Terra."
+		},
+		{
+			"palavra": "estrela",
+			"pista": "Corpo celeste que emite luz própria."
+		},
+		{
+			"palavra": "galaxia",
+			"pista": "Sistema de estrelas, gás e poeira."
+		},
+		{
+			"palavra": "planeta",
+			"pista": "Corpo celeste que orbita uma estrela."
+		},
+		{
+			"palavra": "terra",
+			"pista": "O planeta em que vivemos."
+		},
+		{
+			"palavra": "marte",
+			"pista": "O planeta vermelho."
+		},
+		{
+			"palavra": "venus",
+			"pista": "O planeta mais quente do sistema solar."
+		},
+		{
+			"palavra": "saturno",
+			"pista": "O planeta famoso por seus anéis."
+		},
+		{
+			"palavra": "jupiter",
+			"pista": "O maior planeta do sistema solar."
+		},
+		{
+			"palavra": "urano",
+			"pista": "O sétimo planeta do sol."
+		},
+		{
+			"palavra": "netuno",
+			"pista": "O planeta mais distante do sol."
+		},
+		{
+			"palavra": "mercurio",
+			"pista": "O planeta mais próximo do sol."
+		},
+		{
+			"palavra": "carro",
+			"pista": "Veículo terrestre de quatro rodas."
+		},
+		{
+			"palavra": "aviao",
+			"pista": "Veículo que voa no ar."
+		},
+		{
+			"palavra": "onibus",
+			"pista": "Veículo de transporte público de passageiros."
+		},
+		{
+			"palavra": "trem",
+			"pista": "Veículo sobre trilhos."
+		},
+		{
+			"palavra": "navio",
+			"pista": "Grande embarcação que navega nos mares."
+		},
+		{
+			"palavra": "barco",
+			"pista": "Pequena embarcação."
+		},
+		{
+			"palavra": "helicoptero",
+			"pista": "Aeronave com hélices no topo."
+		},
+		{
+			"palavra": "submarino",
+			"pista": "Embarcação que navega debaixo d'água."
+		},
+		{
+			"palavra": "moto",
+			"pista": "Veículo de duas rodas com motor."
+		},
+		{
+			"palavra": "pneu",
+			"pista": "Peça de borracha que envolve a roda."
+		},
+		{
+			"palavra": "espada",
+			"pista": "Arma de lâmina longa e afiada."
+		},
+		{
+			"palavra": "arco",
+			"pista": "Arma para atirar flechas."
+		},
+		{
+			"palavra": "escudo",
+			"pista": "Arma defensiva usada para proteger o corpo."
+		},
+		{
+			"palavra": "capacete",
+			"pista": "Acessório para proteger a cabeça."
+		}
 	]
 }
