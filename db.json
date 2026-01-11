@@ -3,60 +3,58 @@
 		{ "id": 1, "name": "Produto 1", "price": 10 },
 		{ "id": 2, "name": "Produto 2", "price": 20 }
 	],
-	"product_catalog": {
-		"products": [
-			{
-				"id": "916c",
-				"name": "arroz",
-				"value": "9,0",
-				"categoryId": "1"
-			},
-			{
-				"id": "eac1",
-				"name": "Feijão",
-				"value": "8,50",
-				"categoryId": "1"
-			},
-			{
-				"id": "e0b4",
-				"name": "Salgadinho pequeno",
-				"value": "1,00",
-				"categoryId": "1"
-			},
-			{
-				"id": "df79",
-				"name": "Salgadinho grande",
-				"value": "1,50",
-				"categoryId": "1"
-			},
-			{
-				"id": "ca0e",
-				"name": "Refrigerante",
-				"value": "7",
-				"categoryId": "d1c3"
-			},
-			{
-				"id": "5c4f",
-				"name": "Energético",
-				"value": "5",
-				"categoryId": "d1c3"
-			}
-		],
-		"categories": [
-			{
-				"id": "1",
-				"name": "Alimentos"
-			},
-			{
-				"id": "d1c3",
-				"name": "Bebidas"
-			},
-			{
-				"id": "2155",
-				"name": "Carnes"
-			}
-		]
-	},
+	"products_catalog": [
+		{
+			"id": "916c",
+			"name": "arroz",
+			"value": "9,0",
+			"categoryId": "1"
+		},
+		{
+			"id": "eac1",
+			"name": "Feijão",
+			"value": "8,50",
+			"categoryId": "1"
+		},
+		{
+			"id": "e0b4",
+			"name": "Salgadinho pequeno",
+			"value": "1,00",
+			"categoryId": "1"
+		},
+		{
+			"id": "df79",
+			"name": "Salgadinho grande",
+			"value": "1,50",
+			"categoryId": "1"
+		},
+		{
+			"id": "ca0e",
+			"name": "Refrigerante",
+			"value": "7",
+			"categoryId": "d1c3"
+		},
+		{
+			"id": "5c4f",
+			"name": "Energético",
+			"value": "5",
+			"categoryId": "d1c3"
+		}
+	],
+	"categories_catalog": [
+		{
+			"id": "1",
+			"name": "Alimentos"
+		},
+		{
+			"id": "d1c3",
+			"name": "Bebidas"
+		},
+		{
+			"id": "2155",
+			"name": "Carnes"
+		}
+	],
 	"heroes": [
 		{ "id": 1, "name": "Wolverine" },
 		{ "id": 2, "name": "Flash" },
