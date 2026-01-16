@@ -17,7 +17,7 @@ server.use(jsonServer.bodyParser);
  */
 const writeLimiter = rateLimit({
 	windowMs: 1 * 60 * 1000, // 1 minuto
-	max: 8,
+	max: 5,
 	message: {
 		error: "Limite de operações atingido. Tente novamente em 1 minuto.",
 	},
