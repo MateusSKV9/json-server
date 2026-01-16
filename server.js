@@ -40,8 +40,8 @@ server.use((req, res, next) => {
 	// 1️⃣ Rate limit
 	writeLimiter(req, res, () => {
 		// 2️⃣ Limite total de produtos (apenas para POST /products)
-		if (req.method === "POST" && req.path === "/products") {
-			const products = router.db.get("products").value();
+		if (req.method === "POST" && req.path === "/products_catalog") {
+			const products = router.db.get("products_catalog").value();
 
 			if (products.length >= MAX_PRODUCTS) {
 				return res.status(403).json({
