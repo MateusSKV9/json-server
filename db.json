@@ -7,25 +7,25 @@
 		{
 			"id": "916c",
 			"name": "arroz",
-			"value": "9,0",
+			"value": "9.0",
 			"categoryId": "1"
 		},
 		{
 			"id": "eac1",
 			"name": "Feijão",
-			"value": "8,50",
+			"value": "8.50",
 			"categoryId": "1"
 		},
 		{
 			"id": "e0b4",
 			"name": "Salgadinho pequeno",
-			"value": "1,00",
+			"value": "1.00",
 			"categoryId": "1"
 		},
 		{
 			"id": "df79",
 			"name": "Salgadinho grande",
-			"value": "1,50",
+			"value": "1.50",
 			"categoryId": "1"
 		},
 		{
