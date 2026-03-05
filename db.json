@@ -55,6 +55,16 @@
 			"name": "Carnes"
 		}
 	],
+	"tasks": [
+		{ "id": "1", "title": "Tarefa 1", "categoryId": "1", "status": false },
+		{ "id": "2", "title": "Tarefa 2", "categoryId": "2", "status": false },
+		{ "id": "3", "title": "Tarefa 3", "categoryId": "3", "status": false }
+	],
+	"categories": [
+		{ "id": "1", "name": "Categoria 1" },
+		{ "id": "2", "name": "Categoria 2" },
+		{ "id": "3", "name": "Categoria 3" }
+	],
 	"heroes": [
 		{ "id": 1, "name": "Wolverine" },
 		{ "id": 2, "name": "Flash" },
