@@ -56,9 +56,9 @@
 		}
 	],
 	"tasks": [
-		{ "id": "1", "title": "Tarefa 1", "categoryId": "1", "completed": false },
-		{ "id": "2", "title": "Tarefa 2", "categoryId": "2", "completed": false },
-		{ "id": "3", "title": "Tarefa 3", "categoryId": "3", "completed": false }
+		{ "id": "1", "title": "Tarefa 1", "category_id": "1", "completed": false },
+		{ "id": "2", "title": "Tarefa 2", "category_id": "2", "completed": false },
+		{ "id": "3", "title": "Tarefa 3", "category_id": "3", "completed": false }
 	],
 	"categories": [
 		{ "id": "1", "name": "Categoria 1" },
