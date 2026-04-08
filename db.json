@@ -55,60 +55,60 @@
 			"name": "Carnes"
 		}
 	],
-  
+
   "taskibit-tasks":  [
-    {
-      "id": "1",
-      "column_id": "1",
-      "title": "Task C1-T1",
-      "completed": false,
-      "date": "04/01/2026",
-      "priority": "low",
-      "tag": "Tag",
-      "subtasks": [
-        { "id": "1", "title": "Subtesk 1", "completed": true },
-        { "id": "2", "title": "Subtesk 2", "completed": true },
-        { "id": "3", "title": "Subtesk 3", "completed": false }
-      ]
-    },
-    {
-      "id": "2",
-      "column_id": "1",
-      "title": "Task C1-T2",
-      "date": "04/01/2026",
-      "priority": "medium",
-      "completed": true
-    },
-    {
-      "id": "3",
-      "column_id": "1",
-      "title": "Task C1-T3",
-      "priority": "high",
-      "tag": "Tag",
-      "completed": false
-    },
-  
-    {
-      "id": "4",
-      "column_id": "2",
-      "title": "Task C2-T1",
-      "completed": false,
-      "priority": "default",
-      "tag": "Tag"
-    },
-    {
-      "id": "5",
-      "column_id": "2",
-      "title": "Task C2-T2",
-      "completed": false,
-      "priority": "default",
-      "subtasks": [
-        { "id": "1", "title": "Subtesk 1", "completed": true },
-        { "id": "2", "title": "Subtesk 2", "completed": false },
-        { "id": "3", "title": "Subtesk 3", "completed": false }
-      ],
-    }
-  ],
+	{
+		"id": "1",
+		"column_id": "1",
+		"title": "Task C1-T1",
+		"completed": false,
+		"date": "04/01/2026",
+		"priority": "low",
+		"tag": "Tag",
+		"subtasks": [
+			{ "id": "1", "title": "Subtesk 1", "completed": true },
+			{ "id": "2", "title": "Subtesk 2", "completed": true },
+			{ "id": "3", "title": "Subtesk 3", "completed": false }
+		]
+	},
+	{
+		"id": "2",
+		"column_id": "1",
+		"title": "Task C1-T2",
+		"date": "04/01/2026",
+		"priority": "medium",
+		"completed": true
+	},
+	{
+		"id": "3",
+		"column_id": "1",
+		"title": "Task C1-T3",
+		"priority": "high",
+		"tag": "Tag",
+		"completed": false
+	},
+
+	{
+		"id": "4",
+		"column_id": "2",
+		"title": "Task C2-T1",
+		"completed": false,
+		"priority": "default",
+		"tag": "Tag"
+	},
+	{
+		"id": "5",
+		"column_id": "2",
+		"title": "Task C2-T2",
+		"completed": false,
+		"priority": "default",
+		"subtasks": [
+			{ "id": "1", "title": "Subtesk 1", "completed": true },
+			{ "id": "2", "title": "Subtesk 2", "completed": false },
+			{ "id": "3", "title": "Subtesk 3", "completed": false }
+		]
+	}
+],
 
 	"tasks": [
 		{ "id": "1", "title": "Tarefa 1", "category_id": "1", "completed": false },
@@ -132,7 +132,7 @@
 		{
 			"id": "901f",
 			"name": "aaaaaaaaaaaaaaaaaaaa",
-			""date"OfBirth": "1212-12-12",
+			"dateOfBirth": "1212-12-12",
 			"bloodType": "b",
 			"phone": "11111121111",
 			"healthInsurance": "ouro",
@@ -143,7 +143,7 @@
 		{
 			"id": "3a89",
 			"name": "mateus",
-			""date"OfBirth": "1111-11-11",
+			"dateOfBirth": "1111-11-11",
 			"bloodType": "a",
 			"phone": "(11) 11111-111",
 			"healthInsurance": "ouro",
@@ -210,7 +210,7 @@
 			"appointmentType": "simples",
 			"complaint": "dor",
 			"healthInsurance": "ouro",
-			""date"": "11111-11-11",
+			"date": "11111-11-11",
 			"hour": "11:11",
 			"materials": "bf50",
 			"observations": "a"
