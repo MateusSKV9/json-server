@@ -63,6 +63,59 @@
 		{ "id": "4", "title": "Coluna 4" }
 	],
 
+	"taskibit-tags": [
+		{
+			"id": "1",
+			"name": "Frontend",
+			"color": "#3b82f6"
+		},
+		{
+			"id": "2",
+			"name": "Backend",
+			"color": "#10b981"
+		},
+		{
+			"id": "3",
+			"name": "Bug",
+			"color": "#ef4444"
+		},
+		{
+			"id": "4",
+			"name": "Feature",
+			"color": "#8b5cf6"
+		},
+		{
+			"id": "5",
+			"name": "Urgente",
+			"color": "#f97316"
+		},
+		{
+			"id": "6",
+			"name": "Revisão",
+			"color": "#eab308"
+		},
+		{
+			"id": "7",
+			"name": "Documentação",
+			"color": "#64748b"
+		},
+		{
+			"id": "8",
+			"name": "Design",
+			"color": "#ec4899"
+		},
+		{
+			"id": "9",
+			"name": "DevOps",
+			"color": "#06b6d4"
+		},
+		{
+			"id": "10",
+			"name": "Refatoração",
+			"color": "#f43f5e"
+		}
+	],
+
 	"taskibit-tasks": [
 		{
 			"id": "1",
