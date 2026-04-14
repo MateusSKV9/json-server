@@ -65,54 +65,82 @@
 
 	"taskibit-tags": [
 		{
-			"id": "1",
+			"id": "3b82f600-0000-4000-8000-000000000001",
 			"name": "Frontend",
-			"color": "#3b82f6"
+			"color": "#3b82f6",
+			"contrast": "white"
 		},
 		{
-			"id": "2",
+			"id": "10b98100-0000-4000-8000-000000000002",
 			"name": "Backend",
-			"color": "#10b981"
+			"color": "#10b981",
+			"contrast": "white"
 		},
 		{
-			"id": "3",
+			"id": "ef444400-0000-4000-8000-000000000003",
 			"name": "Bug",
-			"color": "#ef4444"
+			"color": "#ef4444",
+			"contrast": "white"
 		},
 		{
-			"id": "4",
+			"id": "8b5cf600-0000-4000-8000-000000000004",
 			"name": "Feature",
-			"color": "#8b5cf6"
+			"color": "#8b5cf6",
+			"contrast": "white"
 		},
 		{
-			"id": "5",
+			"id": "c2510000-0000-4000-8000-000000000005",
 			"name": "Urgente",
-			"color": "#f97316"
+			"color": "#c25100",
+			"contrast": "white"
 		},
 		{
-			"id": "6",
+			"id": "eab30800-0000-4000-8000-000000000006",
 			"name": "Revisão",
-			"color": "#eab308"
+			"color": "#eab308",
+			"contrast": "black"
 		},
 		{
-			"id": "7",
+			"id": "64748b00-0000-4000-8000-000000000007",
 			"name": "Documentação",
-			"color": "#64748b"
+			"color": "#64748b",
+			"contrast": "white"
 		},
 		{
-			"id": "8",
+			"id": "ec489900-0000-4000-8000-000000000008",
 			"name": "Design",
-			"color": "#ec4899"
+			"color": "#ec4899",
+			"contrast": "white"
 		},
 		{
-			"id": "9",
+			"id": "06b6d400-0000-4000-8000-000000000009",
 			"name": "DevOps",
-			"color": "#06b6d4"
+			"color": "#06b6d4",
+			"contrast": "black"
 		},
 		{
-			"id": "10",
+			"id": "c4a6fdea-ba24-4567-b5a8-9dcccf07bef0",
 			"name": "Refatoração",
-			"color": "#f43f5e"
+			"color": "#f43f5e",
+			"contrast": "white"
+		},
+		{
+			"id": "1344d730-e37d-4dc5-8fdc-f4215eb43ffb",
+			"name": "Apresentação",
+			"color": "#00a7b3",
+			"contrast": "black"
+		},
+		{
+			"id": "2516fc07-dd4f-41b3-b0e9-59854f635ee2",
+			"name": "Fé",
+			"color": "#700bd5",
+			"contrast": "white"
+		},
+		{
+			"id": "a152a304-4886-4c7a-8ebb-6d56ae277d6a",
+			"name": "Organização",
+			"color": "#adadad",
+			"contrast": "black"
 		}
 	],
 
