@@ -212,6 +212,81 @@
 		}
 	],
 
+	"taskibit-habits": [
+		{
+			"id": 1,
+			"title": "Beber água",
+			"description": "Beber pelo menos 2L de água por dia",
+			"tag": "3b82f600-0000-4000-8000-000000000001",
+			"startDate": "2026-05-01",
+			"streak": 5,
+			"completed": false,
+			"position": 0,
+			"column_id": "1",
+			"frequency": "daily"
+		},
+		{
+			"id": 2,
+			"title": "Treinar",
+			"description": "Treino de musculação ou cardio",
+			"tag": "",
+			"startDate": "2026-05-01",
+			"streak": 3,
+			"completed": false,
+			"position": 0,
+			"column_id": "2",
+			"frequency": "week"
+		},
+		{
+			"id": 3,
+			"title": "Ler um livro",
+			"description": "Ler pelo menos 10 páginas",
+			"tag": "3b82f600-0000-4000-8000-000000000001",
+			"startDate": "2026-05-01",
+			"streak": 7,
+			"completed": false,
+			"position": 0,
+			"column_id": "3",
+			"frequency": "daily"
+		},
+		{
+			"id": 4,
+			"title": "Revisar finanças",
+			"description": "Verificar gastos e orçamento",
+			"tag": "",
+			"startDate": "2026-05-01",
+			"streak": 2,
+			"completed": false,
+			"position": 0,
+			"column_id": "4",
+			"frequency": "month"
+		},
+		{
+			"id": 5,
+			"title": "Estudar programação",
+			"description": "Praticar pelo menos 1h por dia",
+			"tag": "3b82f600-0000-4000-8000-000000000001",
+			"startDate": "2026-05-01",
+			"streak": 10,
+			"completed": false,
+			"position": 1,
+			"column_id": "1",
+			"frequency": "daily"
+		},
+		{
+			"id": 6,
+			"title": "Organizar quarto",
+			"description": "Limpeza e organização geral",
+			"tag": "3b82f600-0000-4000-8000-000000000001",
+			"startDate": "2026-05-01",
+			"streak": 1,
+			"completed": false,
+			"position": 1,
+			"column_id": "2",
+			"frequency": "week"
+		}
+	],
+
 	"taskibit-tasks": [
 		{
 			"id": "1",
