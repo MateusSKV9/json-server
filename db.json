@@ -214,7 +214,7 @@
 
 	"taskibit-habits": [
 		{
-			"id": 1,
+			"id": "1",
 			"title": "Beber água",
 			"description": "Beber pelo menos 2L de água por dia",
 			"tag": "3b82f600-0000-4000-8000-000000000001",
@@ -226,7 +226,7 @@
 			"frequency": "daily"
 		},
 		{
-			"id": 2,
+			"id": "2",
 			"title": "Treinar",
 			"description": "Treino de musculação ou cardio",
 			"tag": "",
@@ -238,7 +238,7 @@
 			"frequency": "week"
 		},
 		{
-			"id": 3,
+			"id": "3",
 			"title": "Ler um livro",
 			"description": "Ler pelo menos 10 páginas",
 			"tag": "3b82f600-0000-4000-8000-000000000001",
@@ -250,7 +250,7 @@
 			"frequency": "daily"
 		},
 		{
-			"id": 4,
+			"id": "4",
 			"title": "Revisar finanças",
 			"description": "Verificar gastos e orçamento",
 			"tag": "",
@@ -262,7 +262,7 @@
 			"frequency": "month"
 		},
 		{
-			"id": 5,
+			"id": "5",
 			"title": "Estudar programação",
 			"description": "Praticar pelo menos 1h por dia",
 			"tag": "3b82f600-0000-4000-8000-000000000001",
@@ -274,7 +274,7 @@
 			"frequency": "daily"
 		},
 		{
-			"id": 6,
+			"id": "6",
 			"title": "Organizar quarto",
 			"description": "Limpeza e organização geral",
 			"tag": "3b82f600-0000-4000-8000-000000000001",
@@ -287,6 +287,81 @@
 		}
 	],
 
+	"taskibit-notes": [
+		{
+			"id": "note-1",
+			"title": "Slides Sistemas Operacionais",
+			"description": "Finalizar os slides sobre Virtual File Systems, Inodes e Dentries baseado na bibliografia do Arpaci-Dusseau.",
+			"tag": "3b82f600-0000-4000-8000-000000000001",
+			"date": "2026-05-06",
+			"position": 0,
+			"column_id": "1"
+		},
+		{
+			"id": "note-2",
+			"title": "Relatório Semestral",
+			"description": "Estruturar o relatório parcial de iniciação tecnológica seguindo as normas ABNT acadêmicas.",
+			"tag": "3b82f600-0000-4000-8000-000000000001",
+			"date": "2026-05-06",
+			"position": 1,
+			"column_id": "1"
+		},
+		{
+			"id": "note-3",
+			"title": "Migração Vite",
+			"description": "Revisar a configuração do Vite e atualizar a estrutura de pastas do projeto legado.",
+			"tag": "3b82f600-0000-4000-8000-000000000001",
+			"date": "2026-05-05",
+			"position": 0,
+			"column_id": "2"
+		},
+		{
+			"id": "note-4",
+			"title": "Lógica do GoalCard",
+			"description": "Ajustar o metering e a integração com os indicadores odontológicos CPOD e CEOD na interface.",
+			"tag": "3b82f600-0000-4000-8000-000000000001",
+			"date": "2026-05-05",
+			"position": 1,
+			"column_id": "2"
+		},
+		{
+			"id": "note-5",
+			"title": "Acompanhar exames CNH",
+			"description": "Verificar no sistema o resultado oficial do exame prático de duas rodas e as próximas etapas.",
+			"tag": "3b82f600-0000-4000-8000-000000000001",
+			"date": "2026-05-06",
+			"position": 2,
+			"column_id": "2"
+		},
+		{
+			"id": "note-6",
+			"title": "Treino Calistenia",
+			"description": "Rotina de isometria com uso das cadeiras. Focar na progressão dos movimentos e controle da postura.",
+			"tag": "3b82f600-0000-4000-8000-000000000001",
+			"date": "2026-05-04",
+			"position": 0,
+			"column_id": "3"
+		},
+		{
+			"id": "note-7",
+			"title": "Revisar PR do Membro 4",
+			"description": "Fazer code review do Pull Request e verificar se o histórico segue a especificação do Conventional Commits.",
+			"tag": "3b82f600-0000-4000-8000-000000000001",
+			"date": "2026-05-03",
+			"position": 1,
+			"column_id": "3"
+		},
+		{
+			"id": "note-8",
+			"title": "Refatorar CSS BEM",
+			"description": "Aplicar padrão de arquitetura BEM nas classes do módulo principal para evitar conflitos de escopo.",
+			"tag": "3b82f600-0000-4000-8000-000000000001",
+			"date": "2026-05-02",
+			"position": 2,
+			"column_id": "3"
+		}
+	],
+
 	"taskibit-tasks": [
 		{
 			"id": "1",
@@ -295,7 +370,7 @@
 			"completed": false,
 			"date": "04/01/2026",
 			"priority": "low",
-			"tag": "Tag",
+			"tag": "3b82f600-0000-4000-8000-000000000001",
 			"subtasks": [
 				{ "id": "1", "title": "Subtesk 1", "completed": true },
 				{ "id": "2", "title": "Subtesk 2", "completed": true },
@@ -315,7 +390,7 @@
 			"column_id": "1",
 			"title": "Task C1-T3",
 			"priority": "high",
-			"tag": "Tag",
+			"tag": "3b82f600-0000-4000-8000-000000000001",
 			"completed": false
 		},
 
@@ -325,7 +400,7 @@
 			"title": "Task C2-T1",
 			"completed": false,
 			"priority": "default",
-			"tag": "Tag"
+			"tag": "3b82f600-0000-4000-8000-000000000001"
 		},
 		{
 			"id": "5",
