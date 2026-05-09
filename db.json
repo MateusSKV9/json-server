@@ -171,7 +171,7 @@
 			"current": 35,
 			"id": "e5f6g7h8-1111-403f-b135-a00f682a6168",
 			"position": 0,
-			"column_id": "1"
+			"column_id": "g1"
 		},
 		{
 			"title": "Viagem para o Japão",
@@ -184,7 +184,7 @@
 			"current": 4500,
 			"id": "f6g7h8i9-2222-403f-b135-b11f682a6169",
 			"position": 1,
-			"column_id": "1"
+			"column_id": "g1"
 		},
 		{
 			"title": "Ler 24 Livros",
@@ -197,7 +197,7 @@
 			"current": 8,
 			"id": "g7h8i9j0-3333-403f-b135-c22f682a6170",
 			"position": 0,
-			"column_id": "2"
+			"column_id": "g2"
 		},
 		{
 			"title": "Reforma do Escritório",
@@ -210,7 +210,7 @@
 			"current": 10,
 			"id": "h8i9j0k1-4444-403f-b135-d33f682a6171",
 			"position": 1,
-			"column_id": "2"
+			"column_id": "g2"
 		},
 		{
 			"title": "Correr 500 km",
@@ -223,7 +223,7 @@
 			"current": 125,
 			"id": "i9j0k1l2-5555-403f-b135-e44f682a6172",
 			"position": 0,
-			"column_id": "3"
+			"column_id": "g3"
 		}
 	],
 
@@ -237,7 +237,7 @@
 			"streak": 5,
 			"completed": false,
 			"position": 0,
-			"column_id": "1",
+			"column_id": "h1",
 			"frequency": "daily"
 		},
 		{
@@ -249,7 +249,7 @@
 			"streak": 3,
 			"completed": false,
 			"position": 0,
-			"column_id": "2",
+			"column_id": "h2",
 			"frequency": "week"
 		},
 		{
@@ -261,7 +261,7 @@
 			"streak": 7,
 			"completed": false,
 			"position": 0,
-			"column_id": "3",
+			"column_id": "h3",
 			"frequency": "daily"
 		},
 		{
@@ -273,7 +273,7 @@
 			"streak": 2,
 			"completed": false,
 			"position": 0,
-			"column_id": "4",
+			"column_id": "h4",
 			"frequency": "month"
 		},
 		{
@@ -285,7 +285,7 @@
 			"streak": 10,
 			"completed": false,
 			"position": 1,
-			"column_id": "1",
+			"column_id": "h1",
 			"frequency": "daily"
 		},
 		{
@@ -297,7 +297,7 @@
 			"streak": 1,
 			"completed": false,
 			"position": 1,
-			"column_id": "2",
+			"column_id": "h2",
 			"frequency": "week"
 		}
 	],
@@ -310,7 +310,7 @@
 			"tag": "3b82f600-0000-4000-8000-000000000001",
 			"date": "2026-05-06",
 			"position": 0,
-			"column_id": "1"
+			"column_id": "n1"
 		},
 		{
 			"id": "note-2",
@@ -319,7 +319,7 @@
 			"tag": "3b82f600-0000-4000-8000-000000000001",
 			"date": "2026-05-06",
 			"position": 1,
-			"column_id": "1"
+			"column_id": "n1"
 		},
 		{
 			"id": "note-3",
@@ -328,7 +328,7 @@
 			"tag": "3b82f600-0000-4000-8000-000000000001",
 			"date": "2026-05-05",
 			"position": 0,
-			"column_id": "2"
+			"column_id": "n2"
 		},
 		{
 			"id": "note-4",
@@ -337,7 +337,7 @@
 			"tag": "3b82f600-0000-4000-8000-000000000001",
 			"date": "2026-05-05",
 			"position": 1,
-			"column_id": "2"
+			"column_id": "n2"
 		},
 		{
 			"id": "note-5",
@@ -346,7 +346,7 @@
 			"tag": "3b82f600-0000-4000-8000-000000000001",
 			"date": "2026-05-06",
 			"position": 2,
-			"column_id": "2"
+			"column_id": "n2"
 		},
 		{
 			"id": "note-6",
@@ -355,7 +355,7 @@
 			"tag": "3b82f600-0000-4000-8000-000000000001",
 			"date": "2026-05-04",
 			"position": 0,
-			"column_id": "3"
+			"column_id": "n3"
 		},
 		{
 			"id": "note-7",
@@ -364,7 +364,7 @@
 			"tag": "3b82f600-0000-4000-8000-000000000001",
 			"date": "2026-05-03",
 			"position": 1,
-			"column_id": "3"
+			"column_id": "n3"
 		},
 		{
 			"id": "note-8",
@@ -373,14 +373,14 @@
 			"tag": "3b82f600-0000-4000-8000-000000000001",
 			"date": "2026-05-02",
 			"position": 2,
-			"column_id": "3"
+			"column_id": "n3"
 		}
 	],
 
 	"taskibit-tasks": [
 		{
 			"id": "1",
-			"column_id": "1",
+			"column_id": "t1",
 			"title": "Task C1-T1",
 			"completed": false,
 			"date": "04/01/2026",
@@ -394,7 +394,7 @@
 		},
 		{
 			"id": "2",
-			"column_id": "1",
+			"column_id": "t1",
 			"title": "Task C1-T2",
 			"date": "04/01/2026",
 			"priority": "medium",
@@ -402,7 +402,7 @@
 		},
 		{
 			"id": "3",
-			"column_id": "1",
+			"column_id": "t1",
 			"title": "Task C1-T3",
 			"priority": "high",
 			"tag": "3b82f600-0000-4000-8000-000000000001",
@@ -411,7 +411,7 @@
 
 		{
 			"id": "4",
-			"column_id": "2",
+			"column_id": "t2",
 			"title": "Task C2-T1",
 			"completed": false,
 			"priority": "default",
@@ -419,7 +419,7 @@
 		},
 		{
 			"id": "5",
-			"column_id": "2",
+			"column_id": "t2",
 			"title": "Task C2-T2",
 			"completed": false,
 			"priority": "default",
