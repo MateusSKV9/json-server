@@ -57,10 +57,25 @@
 	],
 
 	"taskibit-columns": [
-		{ "id": "1", "title": "Coluna 1" },
-		{ "id": "2", "title": "Coluna 2" },
-		{ "id": "3", "title": "Coluna 3" },
-		{ "id": "4", "title": "Coluna 4" }
+		{ "id": "t1", "title": "Coluna T1", "category": "task" },
+		{ "id": "t2", "title": "Coluna T2", "category": "task" },
+		{ "id": "t3", "title": "Coluna T3", "category": "task" },
+		{ "id": "t4", "title": "Coluna T4", "category": "task" },
+
+		{ "id": "h1", "title": "Coluna H1", "category": "habit" },
+		{ "id": "h2", "title": "Coluna H2", "category": "habit" },
+		{ "id": "h3", "title": "Coluna H3", "category": "habit" },
+		{ "id": "h4", "title": "Coluna H4", "category": "habit" },
+
+		{ "id": "g1", "title": "Coluna G1", "category": "goal" },
+		{ "id": "g2", "title": "Coluna G2", "category": "goal" },
+		{ "id": "g3", "title": "Coluna G3", "category": "goal" },
+		{ "id": "g4", "title": "Coluna G4", "category": "goal" },
+
+		{ "id": "n1", "title": "Coluna N1", "category": "note" },
+		{ "id": "n2", "title": "Coluna N2", "category": "note" },
+		{ "id": "n3", "title": "Coluna N3", "category": "note" },
+		{ "id": "n4", "title": "Coluna N4", "category": "note" }
 	],
 
 	"taskibit-tags": [
